@@ -35,7 +35,7 @@ const Main = () => {
                         <img src={assets.message_icon} alt="" />
                     </div>
                     <div onClick={() => onSent()} className="card">
-                        <p>Improve the readability of the following code</p>
+                        <p>What is React.js?</p>
                         <img src={assets.code_icon} alt="" />
                     </div>
                 </div>
